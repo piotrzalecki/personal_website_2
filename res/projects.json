@@ -1,0 +1,22 @@
+{"content":[
+    { "title":"Welcome in projects section.",
+     "paragraph":"Here you can find websites and web aplications made by me on my way to become web developer. Most of them You can find as well on <a href='https://github.com/piotrzalecki' alt='piotrzalecki on GitHub' target='_blank'>my GitHub profile." }
+
+],
+
+"panel":[
+    { "title":"Saved Animals",
+     "content":"<p>This simple page allows wegetarian or vegan to check how many animal he or she saved by not eating meat.</p><p><a href='../projects/saved_animals.html' target='_blank'>CLICK TO LAUNCH</a></p>",
+     "footer":"<img src='../img/html5.png' class='tchnology_ico' alt='HTML5 icon'><img src='../img/css3.png' class='tchnology_ico' alt='CSS3 icon'><img src='../img/jquerry.png' class='tchnology_ico' alt='JQuerry icon'>"
+   },
+
+   { "title":"Michal Mania's webiste",
+    "content":"<p>This is website I made for client form Poland. It is basic site made in Joomla with informations abut his practice as psychotherapist. Most of my work it was to install CMS, add content nd style theme.</p><p><a href='http://michalmania.pl' target='_blank'>CLICK TO LAUNCH</a></p>",
+    "footer":"<img src='../img/html5.png' class='tchnology_ico' alt='HTML5 icon'><img src='../img/css3.png' class='tchnology_ico' alt='CSS3 icon'><img src='../img/joomla.png' class='tchnology_ico' alt='CSS3 icon'>"
+  }
+
+
+]
+
+
+}

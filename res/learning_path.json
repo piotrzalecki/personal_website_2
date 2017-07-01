@@ -1,0 +1,43 @@
+{"content":[
+    { "title":"Welcome in learning path section.",
+     "paragraph":"Here you can find what and when I learned, a little bit of description and links to resources which I used." }
+
+],
+
+"table":[
+
+  { "td1":"18-25 Jun 2017",
+   "td2":"I have created my personal website in version 2.0, where You are now :-)" },
+
+    { "td1":"16-18 Jun 2017",
+     "td2":"Java Script, JQuery <p>I remind myself basics of Java Script language and JQuery with The Net Ninja YT channel. It brought back to my mind a couple of those details what will help me write my code more efficiently and smartly.</p> <p><a href='https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET' target='_blank' alt='Java Script for bginners by The Net Ninja on YouTub'>Java Script fr beginners by <q>The Net Ninja</q> on YouTube</a></p> <p><a href='https://www.youtube.com/watch?v=jVe1GBCqFIE&list=PL4cUxeGkcC9hNUJ0j6ccnOAcJIPoTRpO4' target='_blank' alt='JQuery for beginners by The Net Ninja on YouTub'>JQuery for beginners by <q>The Net Ninja</q> on YouTube</a></p>" },
+
+   { "td1":"13 Jun 2017",
+    "td2":"I started using GItHub and Git<p>I created my GitHub account and started learn how to use it within my projects.<br>You can find me on <a href='https://github.com/piotrzalecki' alt='piotrzalecki on GitHub' target='_blank'>https://github.com/piotrzalecki</a></p><p>I took my GitHub and Git lessons on:<ul><li><a href='https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR' alt='The Net Ninja Git and GitHub tutorial'>The Net Ninja Git and GitHub tutorial</a></li><li>Partially on other resources found on google.com</li></ul>"},
+
+    { "td1":"27 May -12 Jun 2017",
+     "td2":"I created my personal website in version 1.0.<p><a href='https://www.piotrzalecki.com/version_1' target='_blank' alt='First version of my website'>First version of my website</a></p>"},
+
+     { "td1":"22 - 26 May 2017",
+      "td2":"Bootstrap 3 on <q>The Net Ninja</q> YouTube channel<p>I learned how to create responsive website using Bootstrap framework. Mainly how work gird system and how to style website with Bootstrap and how to use another features.</p><p><a href='https://www.youtube.com/watch?v=xvfm7IpEkBk&list=PL4cUxeGkcC9g_69kOfXICzT_hZ79_td99' target='_blank' alt='Bootstrap 3 by The Net Ninja on YouTub'>Bootstrap 3 by <q>The Net Ninja</q> on YouTube</a></p>"},
+
+      { "td1":"10 - 17 May 2017",
+       "td2":"Node JS Tutorial for Beginners on <q>The Net Ninja</q> YouTube channel<p>I studied how to create server and communicate with it using Node JS technology. I done this course to get a little bit of knowledge about how to use serer side languages. I was most interested in how to read and write data in databases, but I learned much much more.</p><p><a href='https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp' target='_blank' alt='Node JS by The Net Ninja on YouTube'>Node JS by <q>The Net Ninja</q> on YouTube</a> </p>"},
+
+       { "td1":"21 - 5 May 2017",
+        "td2":"Cloud Computing and AWS Servers on linuxacademy.com<p>I studied basics concepts of cloud computing and Amazon Web Servers. I learned how AWS works and how to run and setup basic servers.</p><p><a href='https://linuxacademy.com/amazon-web-services/training/course/name/aws-concepts' target='_blank' alt='AWS Concepts on linuxacademy.com'>AWS Concepts on linuxcademy.com</a><br><a href='https://linuxacademy.com/amazon-web-services/training/course/name/aws-essentials' target='_blank' alt='AWS Essentials on linuxacademy.com'>AWS Essentials on linuxcademy.com</a><br></p>"},
+
+        { "td1":"20 Jan - 6 Feb 2017",
+         "td2":"Linux Essentials, Linux+ LPIC Level 1 Exam 1 and 2 on linuxacademy.com<p>I studied Linux operations system. I learned basic and more advanced system administration skills. Course include very wide range of topics not only about OS but about Internet technologies as well. Full course descriptions and topics you can find in links below.</p><p><a href='https://linuxacademy.com/linux/training/course/name/linux-essentials' target='_blank' alt='Linux Essentials on linuxacademy.com'>Linux Essentials on linuxcademy.com</a><br><a href='https://linuxacademy.com/linux/training/course/name/linux-lpic-level-1-exam-101' target='_blank' alt='Linux+ LPIC Level 1 Exam 1 on linuxacademy.com'>Linux+ LPIC Level 1 Exam 1 course on linuxcademy.com</a><br><a href='https://linuxacademy.com/linux/training/course/name/linux-lpic-level-1-exam-102' target='_blank' alt='Linux+ LPIC Level 1 Exam 2 on linuxacademy.com'>Linux+ LPIC Level 1 Exam 2 on linuxcademy.com</a><br></p>"},
+
+         { "td1":"12 - 20 Jan 2017",
+          "td2":"Diploma in HTML5, CSS3 and JavaScript on Alison.com<p>On this course I learned HTML5, CSS3 and a basics of Java Script and JQuery. It gave me descent knowledge about how to create good websites from scratch, how properly tag content, how to style it in cascade sheets and bring it to live with Java Script. It shown me a little bit of good practices within building web pages.</p><p><a href='https://alison.com/course/diploma-in-html5-css3-and-javascript' target='_blank' alt='Diploma in HTML5, CSS3 and JavaScript on Alison.com'>Diploma in HTML5, CSS3 and JavaScript on Alison.com</a> </p>"},
+
+          { "td1":"BEFORE",
+           "td2":"My learning path started long time ago...</a><p>I had my first PC when I was 14 years old. From the beginning I was using it not only for play games but for create and research IT technologies as well. Because of that I can say that I have experience in:<ul><li>basic administrations tasks in Windows OS,</li><li>using CMS Joomla in creating websites,</li><li>using GIMP and Fotoshop to edit graphic,</li><li>using Inkscape to create graphic,</li><li>using software to edit video and music files,</li><li>basic network configuring,</li><li>Turbo Pascal and Borland Delphi.</li></ul></p>"}
+
+
+]
+
+
+}
